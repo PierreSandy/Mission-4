@@ -1,2 +1,2 @@
 language: node_js
-node.js: v16.14.0.
+node_js: v16.14.0.
