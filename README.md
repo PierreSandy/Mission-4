@@ -1,4 +1,4 @@
-Mission 4 Trim Function
+<h1>Mission 4 Trim Function</h1>
 
 
 ## Table of contents
