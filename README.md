@@ -1,3 +1,6 @@
+Mission 4 Trim Function
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
